@@ -9,3 +9,5 @@ TrackMyTime allows users to:
 
 Project is open for collaboration. 
 Project Duration: 1 month
+
+Technology Stack: React js, Node js, MongoDB
